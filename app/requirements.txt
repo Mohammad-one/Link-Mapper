@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic_settings
+sqlalchemy
+pandas
+openpyxl
+psycopg2-binary
+alembic
